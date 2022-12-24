@@ -916,7 +916,7 @@ blocks:
     label: UDP server listening port
     short_id: ''
     type: str
-    value: '4730'
+    value: '4729'
   states:
     bus_sink: false
     bus_source: false
